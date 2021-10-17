@@ -6,10 +6,47 @@
 
 h2{
 	font-family: 'Montserrat', sans-serif;
+	color: #007bff;
 }
 
 h1{
 	font-family: 'Charmonman', cursive;
-	font-size: 75px;
+	font-size: 55px;
 }
 
+img{
+	width: 150px;
+	border-radius: 60%;
+
+}
+ul{ 
+	list-style: none;
+	padding: 0;
+ }
+
+ #landing,
+ #gallery {
+ 	height: 80vh;
+ 	display:flex;
+ 	flex-direction: column;
+ 	justify-content: center;
+ 	align-items: center;
+ }
+
+ .tools{
+ 	padding: 25px;
+ 	height: 200px;
+ 	border: 5px solid #f2f2f2;
+ 	margin: 20px;
+ 	width: 70%;
+ 	color: white;
+ }
+
+ .nav-link{
+ 	text-transform: uppercase;
+
+ }
+
+ html{
+ 	scroll-behavior: smooth;
+ }
