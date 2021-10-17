@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Charmonman:wght@700&family=Montserrat:wght@500&family=Roboto+Mono&display=swap');
+
+*{
+	font-family: 'Roboto Mono', monospace;
+}
+
+h2{
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+	font-family: 'Charmonman', cursive;
+	font-size: 75px;
+}
+
